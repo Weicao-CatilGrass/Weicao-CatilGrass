@@ -1,6 +1,4 @@
-# Hi there
-
-I'm CatilGrass 🇨🇳 👋
+# Hi there, I'm CatilGrass 🇨🇳
 
 A passionate Rustacean 🦀 
 
